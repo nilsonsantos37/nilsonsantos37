@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @nilson dos santos
-- 👀 I’m interested in ...aprender e melhorar meus conhecimentos em informática
-- 🌱 I’m currently learning ...Code anywhere
+- 👋 Hello there, I’m @nilson dos santos!
+- 👀 I’m interested in ...working on front-end
+- 🌱 I’m currently learning ...CSS/HTML/JS
 - 💞️ I’m looking to collaborate on ...em tudo que tiver aí meu alcance
 - 📫 How to reach me ...
 
