@@ -2,7 +2,7 @@
 - 👀 I’m interested in ...working on front-end
 - 🌱 I’m currently learning ...CSS/HTML/JS
 - 💞️ I’m looking to collaborate on ... 
-everything I had within my reach
+everything within my reach
 - 📫 How to reach me ...
 <!---
 nilsonsantos37/nilsonsantos37 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
