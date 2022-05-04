@@ -1,7 +1,7 @@
  Olá! eu sou o nilsonsantos37
 - 👀 Atualmente Faço tecnólogo em analise e desenvolvimento de sistemas na Uniasselvi
 - 🌱 Estou me especializando em front-end
-- 🥇 Hoje trabalho como operador de cnc, e estou engrenando no mundo da programação
+- 🥇 Hoje trabalho como operador de cnc, e estou engressando no mundo da programação
 
 
 <div align="center">
