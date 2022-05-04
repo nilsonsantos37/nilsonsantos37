@@ -1,9 +1,8 @@
  Olá! eu sou o nilsonsantos37
-- 👀 hoje estou estudando tecnólogo em analise e desenvolvimento de sistemas
-- 🌱 atualmente estou me especializando em front-end
-- 💞️ I’m looking to collaborate on ... 
-everything within my reach.
-- 📫 How to reach me ...
+- 👀 Atualmente Faço tecnólogo em analise e desenvolvimento de sistemas na Uniasselvi
+- 🌱 Estou me especializando em front-end
+- 🥇 Hoje trabalho como operador de cnc, e estou engrenando no mundo da programação
+
 
 <div align="center">
   <a href="https://github.com/nilsonsantos37">
@@ -25,6 +24,7 @@ everything within my reach.
   
   <div> 
  
+- 📫 How to reach me ...
 <h3 align="left">Redes Sociais: </h3>
 
  <a href="https://discord.com/" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
